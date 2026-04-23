@@ -1,16 +1,53 @@
-## Hi there 👋
+# 📘 README – Perfil del Estudiante
 
-<!--
-**Mauricio6996/Mauricio6996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- *Nombre completo: Mauricio Arturo Herrera Guandique*  
+- *Edad: 18*  
+- *Grado / Sección: 3"B"*  
+- *Especialidad: Software*  
+- *Institución: Instituto Nacional de Santiago de María*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Videojuegos 
+- Salir con amigos  
+- Comida  
+
+---
+
+## 🧠 Habilidades
+
+- Buen nivel de inglés  
+- Adaptabilidad 
+- Negociación 
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Lenguajes de programación:  
+- Herramientas tecnológicas:  
+- Otros conocimientos:  
+
+---
+
+## 📚 Experiencia Académica
+
+- Proyecto o trabajo 1  
+- Proyecto o trabajo 2  
+
+---
+
+## 🎯 Objetivos Personales
+
+- Graduarme de la Universidad  
+- Continuar con el trabajo familiar  
+
+---
+
+## 📌 Notas
+
+Información adicional que el estudiante desee agregar.
