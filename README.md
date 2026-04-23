@@ -32,9 +32,9 @@
 
 ## 💻 Conocimientos Técnicos
 
-- Lenguajes de programación:  
-- Herramientas tecnológicas:  
-- Otros conocimientos:  
+- Lenguajes de programación: php, python, C#, C++, HTML, CSS,  
+- Herramientas tecnológicas: Visual Studio Code, NetBeans, Cisco Packet Tracer, Management Studio, Xampp, Wampp, StarUML, ArgoUML, Sublime, Overleaf.
+- Otros conocimientos: 
 
 ---
 
@@ -54,4 +54,4 @@
 
 ## 📌 Notas
 
-Información adicional que el estudiante desee agregar.
+
